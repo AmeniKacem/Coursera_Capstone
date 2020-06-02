@@ -1,0 +1,669 @@
+,street,latitude,longitude,venue,venue latitude,venue longitude,venue category
+0,"Harley Street, London, the UK",-0.1477,51.520599,Royal Institute of British Architects,51.5211083978643,-0.14501449698020452,Art Gallery
+1,"Harley Street, London, the UK",-0.1477,51.520599,The Cavendish,51.519018304844934,-0.1496368169438876,Gastropub
+2,"Harley Street, London, the UK",-0.1477,51.520599,Daunt Books,51.520432758878734,-0.15182379469622112,Bookstore
+3,"Harley Street, London, the UK",-0.1477,51.520599,Pierre Marcolini Chocolatier,51.52065257329547,-0.151909078398161,Dessert Shop
+4,"Harley Street, London, the UK",-0.1477,51.520599,La Fromagerie,51.519858028521625,-0.1522383678601626,Cheese Shop
+5,"Harley Street, London, the UK",-0.1477,51.520599,Jardin Du Jasmin,51.521534,-0.143434,Café
+6,"Harley Street, London, the UK",-0.1477,51.520599,The Marylebone Hotel,51.518016351538066,-0.14974094051132797,Hotel
+7,"Harley Street, London, the UK",-0.1477,51.520599,The Conran Shop,51.52225371472936,-0.15117629992926548,Furniture / Home Store
+8,"Harley Street, London, the UK",-0.1477,51.520599,Margaret Dabbs,51.518738882899335,-0.15100415202399434,Nail Salon
+9,"Harley Street, London, the UK",-0.1477,51.520599,OPSO,51.520784,-0.152891,Greek Restaurant
+10,"Harley Street, London, the UK",-0.1477,51.520599,The Marylebone,51.51987146181745,-0.15192754039648967,Cocktail Bar
+11,"Harley Street, London, the UK",-0.1477,51.520599,Kusmi Tea,51.5191573159144,-0.15164519201883458,Gourmet Shop
+12,"Harley Street, London, the UK",-0.1477,51.520599,BBC Radio Theatre,51.51853425979514,-0.14413320279133005,Radio Station
+13,"Harley Street, London, the UK",-0.1477,51.520599,Sushi Atelier,51.51939013762405,-0.1424600291908215,Sushi Restaurant
+14,"Harley Street, London, the UK",-0.1477,51.520599,The Langham,51.517801045370746,-0.1439927644804584,Hotel
+15,"Harley Street, London, the UK",-0.1477,51.520599,Marylebone Farmers' Market,51.51917561345759,-0.1527636510638178,Farmers Market
+16,"Harley Street, London, the UK",-0.1477,51.520599,Waitrose & Partners,51.51944580102297,-0.15189612270182806,Supermarket
+17,"Harley Street, London, the UK",-0.1477,51.520599,Le Relais de Venise L’Entrecôte,51.51810447945907,-0.15106168619426952,French Restaurant
+18,"Harley Street, London, the UK",-0.1477,51.520599,Wigmore Hall,51.51678587361812,-0.14830009710061817,Concert Hall
+19,"Harley Street, London, the UK",-0.1477,51.520599,Portland Restaurant,51.51982141808416,-0.14261222723306768,Restaurant
+20,"Harley Street, London, the UK",-0.1477,51.520599,Clipstone Restaurant,51.520922557202105,-0.14227162548710082,Modern European Restaurant
+21,"Harley Street, London, the UK",-0.1477,51.520599,Orrery,51.522313599359805,-0.1513066896036187,French Restaurant
+22,"Harley Street, London, the UK",-0.1477,51.520599,Roux at The Landau,51.51793233997872,-0.14365076499507268,French Restaurant
+23,"Harley Street, London, the UK",-0.1477,51.520599,Artesian,51.5179015,-0.1435638,Hotel Bar
+24,"Harley Street, London, the UK",-0.1477,51.520599,Tommi's Burger Joint,51.517666345503066,-0.1514546153829727,Burger Joint
+25,"Harley Street, London, the UK",-0.1477,51.520599,The Wigmore,51.51749883890858,-0.1432781519672517,Pub
+26,"Harley Street, London, the UK",-0.1477,51.520599,Paddington Street Gardens,51.520319904688336,-0.15410900115966797,Garden
+27,"Harley Street, London, the UK",-0.1477,51.520599,L'atelier des Chefs,51.51664872456825,-0.14713123156773575,Food Court
+28,"Harley Street, London, the UK",-0.1477,51.520599,John Bell & Croyden,51.516390017638315,-0.1493063813796407,Pharmacy
+29,"Harley Street, London, the UK",-0.1477,51.520599,Cafe Zilly,51.52330769640895,-0.14216704418542006,Diner
+30,"Harley Street, London, the UK",-0.1477,51.520599,The Remedy,51.523224134702296,-0.14209137351918122,Wine Bar
+31,"Harley Street, London, the UK",-0.1477,51.520599,Paul Rothe & Sons Delicatessen,51.516905321290686,-0.15070410948164586,Deli / Bodega
+32,"Harley Street, London, the UK",-0.1477,51.520599,Clarette,51.51847149673737,-0.1538402752726863,Wine Bar
+33,"Harley Street, London, the UK",-0.1477,51.520599,Park Crescent,51.523625243594125,-0.14552741112166329,Plaza
+34,"Harley Street, London, the UK",-0.1477,51.520599,Le Vieux Comptoir,51.519838250619344,-0.15341304255099456,French Restaurant
+35,"Harley Street, London, the UK",-0.1477,51.520599,Trishna,51.518519713782545,-0.15306274429022426,Indian Restaurant
+36,"Harley Street, London, the UK",-0.1477,51.520599,Jikoni,51.518476906375064,-0.15321347237821617,Indian Restaurant
+37,"Harley Street, London, the UK",-0.1477,51.520599,The Rajdoot,51.52057,-0.15354,Indian Restaurant
+38,"Harley Street, London, the UK",-0.1477,51.520599,Roganic,51.51848292639138,-0.15324839033636542,Restaurant
+39,"Harley Street, London, the UK",-0.1477,51.520599,Hotel La Place London,51.521474235427334,-0.15320844812851284,Hotel
+40,"Harley Street, London, the UK",-0.1477,51.520599,A.O.K Kitchen & Bakery,51.519661,-0.154768,Mediterranean Restaurant
+41,"Harley Street, London, the UK",-0.1477,51.520599,Pizza-Nativa,51.520818854598865,-0.15296747651706552,Pizza Place
+42,"Harley Street, London, the UK",-0.1477,51.520599,Kibele,51.52192847536334,-0.14347104201846075,Turkish Restaurant
+43,"Harley Street, London, the UK",-0.1477,51.520599,Banh Mi Town,51.52025604248047,-0.14074590802192688,Vietnamese Restaurant
+44,"Harley Street, London, the UK",-0.1477,51.520599,Harris + Hoole,51.5204915391702,-0.1406184611554132,Coffee Shop
+45,"Harley Street, London, the UK",-0.1477,51.520599,Nottingham Place Hotel,51.52216015323947,-0.15325629404020255,Hotel
+46,"Savile Row, London, the UK",-0.140709,51.511284,Chanel,51.51074732169219,-0.14288385446462465,Boutique
+47,"Savile Row, London, the UK",-0.140709,51.511284,Ralph Lauren,51.50980229456309,-0.1413938204885845,Clothing Store
+48,"Savile Row, London, the UK",-0.140709,51.511284,Dior,51.51067583208067,-0.14268900146942398,Clothing Store
+49,"Savile Row, London, the UK",-0.140709,51.511284,Cahoots,51.51252270693244,-0.13862309742116488,Cocktail Bar
+50,"Savile Row, London, the UK",-0.140709,51.511284,Kingly Court,51.51263165734176,-0.13876898482724873,Food Court
+51,"Savile Row, London, the UK",-0.140709,51.511284,Burberry,51.5103915,-0.1388527,Clothing Store
+52,"Savile Row, London, the UK",-0.140709,51.511284,lululemon athletica,51.51261907912644,-0.14028512070210394,Clothing Store
+53,"Savile Row, London, the UK",-0.140709,51.511284,Halcyon Gallery,51.5114518951079,-0.1437357255886561,Art Gallery
+54,"Savile Row, London, the UK",-0.140709,51.511284,Tommy Hilfiger,51.51136490921975,-0.1387683533729387,Clothing Store
+55,"Savile Row, London, the UK",-0.140709,51.511284,CHANEL Boutique,51.510669930603584,-0.14311980335310182,Boutique
+56,"Savile Row, London, the UK",-0.140709,51.511284,Patek Philippe,51.510513413081874,-0.14258637764055337,Watch Shop
+57,"Savile Row, London, the UK",-0.140709,51.511284,We Built This City,51.51244482200528,-0.13806076988303054,Gift Shop
+58,"Savile Row, London, the UK",-0.140709,51.511284,Dishoom,51.51307933813641,-0.13968944549560547,Indian Restaurant
+59,"Savile Row, London, the UK",-0.140709,51.511284,Sotheby's,51.51176412416014,-0.14384696362632585,Art Gallery
+60,"Savile Row, London, the UK",-0.140709,51.511284,Carnaby Street,51.513209538291676,-0.13889551162719724,Pedestrian Plaza
+61,"Savile Row, London, the UK",-0.140709,51.511284,Royal Academy of Arts,51.50910852221246,-0.13947604747954753,Art Museum
+62,"Savile Row, London, the UK",-0.140709,51.511284,Brown's Hotel,51.50912665021098,-0.14207727877501275,Hotel
+63,"Savile Row, London, the UK",-0.140709,51.511284,Prada,51.50899826645793,-0.14095863219435442,Boutique
+64,"Savile Row, London, the UK",-0.140709,51.511284,Little Social,51.51352414150624,-0.1422119627642784,French Restaurant
+65,"Savile Row, London, the UK",-0.140709,51.511284,Pollen Street Social,51.51342620568972,-0.1422079059902279,English Restaurant
+66,"Savile Row, London, the UK",-0.140709,51.511284,Liberty of London,51.51372497936781,-0.14050994852482712,Department Store
+67,"Savile Row, London, the UK",-0.140709,51.511284,THE ENGLISH Tea Room,51.50915493430172,-0.14202388547879866,Tea Room
+68,"Savile Row, London, the UK",-0.140709,51.511284,Hakkasan,51.510460043077856,-0.14474063642022095,Cantonese Restaurant
+69,"Savile Row, London, the UK",-0.140709,51.511284,Leica Store,51.51091859543777,-0.14516769574260546,Camera Store
+70,"Savile Row, London, the UK",-0.140709,51.511284,Emporio Armani,51.512634435938985,-0.1446030164484425,Clothing Store
+71,"Savile Row, London, the UK",-0.140709,51.511284,Quattro Passi,51.50882687132074,-0.14269751374648143,Italian Restaurant
+72,"Savile Row, London, the UK",-0.140709,51.511284,END. London,51.51308184590304,-0.13751108225453154,Clothing Store
+73,"Savile Row, London, the UK",-0.140709,51.511284,Gymkhana,51.508545278294704,-0.14142367023218483,Indian Restaurant
+74,"Savile Row, London, the UK",-0.140709,51.511284,Ladurée,51.50840048706268,-0.1395351594200065,Dessert Shop
+75,"Savile Row, London, the UK",-0.140709,51.511284,Dolce&Gabbana,51.51279362491167,-0.14476113499481524,Men's Store
+76,"Savile Row, London, the UK",-0.140709,51.511284,Café Royal Hotel,51.51020994158144,-0.13632388898493164,Hotel
+77,"Savile Row, London, the UK",-0.140709,51.511284,Minamoto Kitchoan Japanese Confectionary,51.50875715019578,-0.13795443334594365,Dessert Shop
+78,"Savile Row, London, the UK",-0.140709,51.511284,Whole Foods Market,51.51048750937573,-0.13590689229976402,Grocery Store
+79,"Savile Row, London, the UK",-0.140709,51.511284,Fortnum & Mason,51.508362908835586,-0.13866698492205912,Department Store
+80,"Savile Row, London, the UK",-0.140709,51.511284,Elemis Day-Spa,51.51262238100525,-0.1453084353644919,Spa
+81,"Savile Row, London, the UK",-0.140709,51.511284,Tramp,51.50833189329173,-0.13783554875328055,Nightclub
+82,"Savile Row, London, the UK",-0.140709,51.511284,Waterstones,51.50925645082526,-0.13609369329961535,Bookstore
+83,"Savile Row, London, the UK",-0.140709,51.511284,Benares,51.509667239923154,-0.14523434700718685,Indian Restaurant
+84,"Savile Row, London, the UK",-0.140709,51.511284,La Petite Maison,51.51260007693624,-0.14611300853997983,French Restaurant
+85,"Savile Row, London, the UK",-0.140709,51.511284,Carpo Piccadilly,51.50956385935709,-0.1355359951960031,Gourmet Shop
+86,"Savile Row, London, the UK",-0.140709,51.511284,Novikov,51.507767103762376,-0.14284957683152608,Asian Restaurant
+87,"Savile Row, London, the UK",-0.140709,51.511284,Ham Yard Hotel,51.5112358946631,-0.1346564016360778,Hotel
+88,"Savile Row, London, the UK",-0.140709,51.511284,Phillips,51.51038095586057,-0.14701724980743197,Art Gallery
+89,"Savile Row, London, the UK",-0.140709,51.511284,Piccadilly Circus,51.50996110016709,-0.1346522569656372,Plaza
+90,"Savile Row, London, the UK",-0.140709,51.511284,The Photographers' Gallery,51.51506983562191,-0.1389692294992966,Art Gallery
+91,"Savile Row, London, the UK",-0.140709,51.511284,Berkeley Square,51.509744084227556,-0.1458907127380371,Plaza
+92,"Savile Row, London, the UK",-0.140709,51.511284,Picturehouse Central,51.51069477131599,-0.13395564467364965,Multiplex
+93,"Savile Row, London, the UK",-0.140709,51.511284,Hedonism Wines,51.5108031994149,-0.14745027754689535,Wine Shop
+94,"Savile Row, London, the UK",-0.140709,51.511284,Lina Stores,51.51226022259545,-0.134187971755539,Gourmet Shop
+95,"Savile Row, London, the UK",-0.140709,51.511284,Cass Art,51.51393580216873,-0.13521390569657823,Arts & Crafts Store
+96,"Savile Row, London, the UK",-0.140709,51.511284,Gosh! Comics,51.51293204417029,-0.13431955761299902,Comic Shop
+97,"Savile Row, London, the UK",-0.140709,51.511284,BrewDog Soho,51.51506401548841,-0.13725131750106812,Beer Bar
+98,"Savile Row, London, the UK",-0.140709,51.511284,Randall & Aubin,51.51230184146461,-0.1339914292938638,Seafood Restaurant
+99,"Savile Row, London, the UK",-0.140709,51.511284,Microsoft Flagship Store,51.515198,-0.142215,Electronics Store
+100,"Savile Row, London, the UK",-0.140709,51.511284,Pandora,51.51529327906864,-0.14256236744520465,Jewelry Store
+101,"Savile Row, London, the UK",-0.140709,51.511284,LOLA's Cupcakes,51.51548397710461,-0.14130105908680377,Cupcake Shop
+102,"Savile Row, London, the UK",-0.140709,51.511284,Muji,51.515647807699914,-0.13907574329914146,Miscellaneous Shop
+103,"Savile Row, London, the UK",-0.140709,51.511284,Neat Burger,51.51458,-0.1426476,Vegetarian / Vegan Restaurant
+104,"Savile Row, London, the UK",-0.140709,51.511284,The Kati Roll Company,51.51513905984989,-0.13738198980131475,Indian Restaurant
+105,"Savile Row, London, the UK",-0.140709,51.511284,Snog Pure Frozen Yogurt,51.51235392242397,-0.13380848262426007,Frozen Yogurt Shop
+106,"Savile Row, London, the UK",-0.140709,51.511284,KIKO MILANO,51.515014066718344,-0.14163064175986584,Cosmetics Shop
+107,"Savile Row, London, the UK",-0.140709,51.511284,NikeTown,51.5154882,-0.1418238,Sporting Goods Shop
+108,"Savile Row, London, the UK",-0.140709,51.511284,G-Star Raw,51.5151603,-0.1442649,Clothing Store
+109,"Savile Row, London, the UK",-0.140709,51.511284,Urban Outfitters,51.51556711563462,-0.1406213703986795,Clothing Store
+110,"Antrim Coast Road, Northern Ireland, the UK",-5.88,54.681999,Jordanstown Beach,54.679169,-5.886031,Beach
+111,"Camden High Street, London, the UK",-0.140556,51.536388,BrewDog Camden,51.538332870312985,-0.14092594385147095,Beer Bar
+112,"Camden High Street, London, the UK",-0.140556,51.536388,Melissa Patisserie & Confectionery,51.536849830034996,-0.1407439045629923,Snack Place
+113,"Camden High Street, London, the UK",-0.140556,51.536388,Chinalife,51.536865246148274,-0.14081406250005446,Tea Room
+114,"Camden High Street, London, the UK",-0.140556,51.536388,Camden Coffee Shop,51.53683904495788,-0.1421988528799949,Coffee Shop
+115,"Camden High Street, London, the UK",-0.140556,51.536388,Ferreira Delicatessen,51.536487663249666,-0.1437388734308685,Deli / Bodega
+116,"Camden High Street, London, the UK",-0.140556,51.536388,Cafe Mexicana,51.535685,-0.139336,Mexican Restaurant
+117,"Camden High Street, London, the UK",-0.140556,51.536388,The Blues Kitchen,51.537182042274495,-0.14109885863137187,Lounge
+118,"Camden High Street, London, the UK",-0.140556,51.536388,La Patagonia,51.53533738536223,-0.13925681311608498,Argentinian Restaurant
+119,"Camden High Street, London, the UK",-0.140556,51.536388,Andy's Taverna,51.53766492967035,-0.1398682211638817,Greek Restaurant
+120,"Camden High Street, London, the UK",-0.140556,51.536388,Mei Leaf,51.536846,-0.14097792,Tea Room
+121,"Camden High Street, London, the UK",-0.140556,51.536388,Sheephaven Bay,51.53518331575245,-0.14168869399759387,Pub
+122,"Camden High Street, London, the UK",-0.140556,51.536388,Band Of Burgers,51.53513949803698,-0.13907633227346058,Burger Joint
+123,"Camden High Street, London, the UK",-0.140556,51.536388,Lost Boys Pizza,51.5338832710824,-0.13808012008666992,Pizza Place
+124,"Camden High Street, London, the UK",-0.140556,51.536388,Asakusa,51.53410725735929,-0.13822513836912417,Japanese Restaurant
+125,"Camden High Street, London, the UK",-0.140556,51.536388,Bar & CO,51.53779501296888,-0.13939116566794313,Portuguese Restaurant
+126,"Camden High Street, London, the UK",-0.140556,51.536388,All Ages Records,51.53768536963399,-0.1396918700735327,Record Shop
+127,"Camden High Street, London, the UK",-0.140556,51.536388,Waterstones,51.53794703826986,-0.1416923837838451,Bookstore
+128,"Camden High Street, London, the UK",-0.140556,51.536388,Purezza,51.53815366832901,-0.14434518710723535,Vegetarian / Vegan Restaurant
+129,"Camden High Street, London, the UK",-0.140556,51.536388,The Coffee Jar,51.53726903812666,-0.14559984605554818,Coffee Shop
+130,"Camden High Street, London, the UK",-0.140556,51.536388,Jazz Cafe,51.53868488228008,-0.1430743932723999,Jazz Club
+131,"Camden High Street, London, the UK",-0.140556,51.536388,Green Note,51.537216171116306,-0.14577283577999714,Music Venue
+132,"Camden High Street, London, the UK",-0.140556,51.536388,KOKO,51.534729825842874,-0.13789168288367556,Music Venue
+133,"Camden High Street, London, the UK",-0.140556,51.536388,Parkway Greens,51.53806154806028,-0.14457167119712477,Fruit & Vegetable Store
+134,"Camden High Street, London, the UK",-0.140556,51.536388,Whole Foods Market,51.53799862859371,-0.14462261626014497,Grocery Store
+135,"Camden High Street, London, the UK",-0.140556,51.536388,Poundland,51.53615984516765,-0.13966932892799377,Discount Store
+136,"Camden High Street, London, the UK",-0.140556,51.536388,"Il Sugo, a taste of Italy",51.537283794615774,-0.14065529317465533,Italian Restaurant
+137,"Camden High Street, London, the UK",-0.140556,51.536388,Round Falafel,51.5374488898208,-0.1454410931517309,Falafel Restaurant
+138,"Camden High Street, London, the UK",-0.140556,51.536388,Yamas,51.53567423709126,-0.13952305422807626,Greek Restaurant
+139,"Camden High Street, London, the UK",-0.140556,51.536388,Music & Beans,51.536732,-0.140494,Coffee Shop
+140,"Camden High Street, London, the UK",-0.140556,51.536388,Hook Camden Town,51.537600404963406,-0.14515479908409787,Fish & Chips Shop
+141,"Camden High Street, London, the UK",-0.140556,51.536388,El Parador,51.5337048589386,-0.13773283011305415,Tapas Restaurant
+142,"Camden High Street, London, the UK",-0.140556,51.536388,Boots,51.537428890976294,-0.14108755735765044,Pharmacy
+143,"Camden High Street, London, the UK",-0.140556,51.536388,The Black Heart,51.538837,-0.14177385,Rock Club
+144,"Camden High Street, London, the UK",-0.140556,51.536388,White Kitchen,51.53651781666194,-0.1404239911615036,Pizza Place
+145,"Camden High Street, London, the UK",-0.140556,51.536388,42 Beans,51.536373,-0.14027,Coffee Shop
+146,"Camden High Street, London, the UK",-0.140556,51.536388,Taste of Siam,51.53557176232808,-0.1394641566930907,Thai Restaurant
+147,"Camden High Street, London, the UK",-0.140556,51.536388,The World's End,51.539191319571664,-0.1419792167601402,Pub
+148,"Camden High Street, London, the UK",-0.140556,51.536388,Edinboro Castle,51.53625387838065,-0.1449150963681095,Pub
+149,"Camden High Street, London, the UK",-0.140556,51.536388,O Tino,51.5359920489952,-0.13935232082369245,Restaurant
+150,"Camden High Street, London, the UK",-0.140556,51.536388,One Shot Coffee,51.53761096333502,-0.1452908469504104,Coffee Shop
+151,"Camden High Street, London, the UK",-0.140556,51.536388,What The Pitta,51.537937,-0.14037676,Kebab Restaurant
+152,"Camden High Street, London, the UK",-0.140556,51.536388,LAZ @ camden,51.53816175375431,-0.14428031570112876,Mediterranean Restaurant
+153,"Camden High Street, London, the UK",-0.140556,51.536388,Sushi Waka,51.53740846060666,-0.14541714258933264,Sushi Restaurant
+154,"Camden High Street, London, the UK",-0.140556,51.536388,Masala Zone Camden Town,51.53854715355032,-0.14378463802730307,Indian Restaurant
+155,"Camden High Street, London, the UK",-0.140556,51.536388,Chicco Wood Fired Pizza,51.53566232300594,-0.13953090258788026,Pizza Place
+156,"Camden High Street, London, the UK",-0.140556,51.536388,Haché,51.539464919109776,-0.1442966611787412,Burger Joint
+157,"Camden High Street, London, the UK",-0.140556,51.536388,oseyo Camden,51.538703,-0.142173,Supermarket
+158,"Camden High Street, London, the UK",-0.140556,51.536388,Vans Store,51.53918336290826,-0.14318534234974534,Shoe Store
+159,"Camden High Street, London, the UK",-0.140556,51.536388,Shimogamo,51.537149635201814,-0.14587198395630097,Japanese Restaurant
+160,"Camden High Street, London, the UK",-0.140556,51.536388,Five Guys,51.538485,-0.144306,Burger Joint
+161,"Camden High Street, London, the UK",-0.140556,51.536388,Ramen Seto,51.53612718371183,-0.13894647186501394,Ramen Restaurant
+162,"Camden High Street, London, the UK",-0.140556,51.536388,Made in Brasil,51.5396412688986,-0.14397188566785338,Bar
+163,"Camden High Street, London, the UK",-0.140556,51.536388,Al Parco,51.53848541008434,-0.14390335773790056,Italian Restaurant
+164,"Camden High Street, London, the UK",-0.140556,51.536388,The Camden Head,51.537225003911644,-0.14091842406307092,Bar
+165,"Camden High Street, London, the UK",-0.140556,51.536388,Istanbul Meze Restaurant,51.534711099677104,-0.13895798112539787,Turkish Restaurant
+166,"Camden High Street, London, the UK",-0.140556,51.536388,The Underworld,51.53924255561127,-0.1422321240242743,Music Venue
+167,"Camden High Street, London, the UK",-0.140556,51.536388,The Prince Albert,51.53989974524351,-0.13696941931888865,Pub
+168,"Camden High Street, London, the UK",-0.140556,51.536388,Woody Grill,51.53945856444053,-0.14202122275020043,Middle Eastern Restaurant
+169,"Camden High Street, London, the UK",-0.140556,51.536388,Bubble Waffle @ Urban Food Fest,51.53952115531358,-0.14313472943501093,Food Truck
+170,"Camden High Street, London, the UK",-0.140556,51.536388,Out On The Floor Records,51.53960093895259,-0.14378983125990108,Record Shop
+171,"Camden High Street, London, the UK",-0.140556,51.536388,GAIL's Bakery,51.538268068556526,-0.1442301598773893,Bakery
+172,"Camden High Street, London, the UK",-0.140556,51.536388,Simmons Bar,51.5346489631083,-0.1388493899386834,Cocktail Bar
+173,"Camden High Street, London, the UK",-0.140556,51.536388,St. Christopher's Inn Camden,51.53594867448099,-0.13963091245136391,Hostel
+174,"Camden High Street, London, the UK",-0.140556,51.536388,St Martins Gardens,51.53907280464831,-0.13907185075599127,Garden
+175,"Camden High Street, London, the UK",-0.140556,51.536388,Urban Outfitters,51.53934690810828,-0.14344596237868898,Clothing Store
+176,"Camden High Street, London, the UK",-0.140556,51.536388,Camden Bakery & Grill,51.53704334111853,-0.14080280752872842,Bakery
+177,"Camden High Street, London, the UK",-0.140556,51.536388,Amorino,51.5401029123919,-0.14366984367370605,Ice Cream Shop
+178,"Camden High Street, London, the UK",-0.140556,51.536388,Costa Coffee,51.53606396061653,-0.14018747397633813,Coffee Shop
+179,"Camden High Street, London, the UK",-0.140556,51.536388,DAPHNE,51.53777872472335,-0.14038391012409848,Greek Restaurant
+180,"Camden High Street, London, the UK",-0.140556,51.536388,Trufflesecco,51.534781240038306,-0.1391325004201278,Italian Restaurant
+181,"Camden High Street, London, the UK",-0.140556,51.536388,Al Qalaa,51.534767001694085,-0.13898889655804508,Middle Eastern Restaurant
+182,"Camden High Street, London, the UK",-0.140556,51.536388,Sushi Salsa,51.53594610498834,-0.1433492330821045,Sushi Restaurant
+183,"Camden High Street, London, the UK",-0.140556,51.536388,Karavas,51.5361433238973,-0.138911530535797,Greek Restaurant
+184,"Camden High Street, London, the UK",-0.140556,51.536388,Alexander The Great,51.53620162077951,-0.1387638361445749,Greek Restaurant
+185,"Camden High Street, London, the UK",-0.140556,51.536388,Sainsbury's,51.540462488265135,-0.1408706179400987,Supermarket
+186,"Camden High Street, London, the UK",-0.140556,51.536388,Purple Turtle,51.53460792214057,-0.13809290070147573,Rock Club
+187,"Camden High Street, London, the UK",-0.140556,51.536388,Be at One,51.53580577175885,-0.13998888591390823,Cocktail Bar
+188,"Camden High Street, London, the UK",-0.140556,51.536388,Boots,51.53475887268786,-0.13879024766767228,Pharmacy
+189,"Camden High Street, London, the UK",-0.140556,51.536388,The Lyttelton Arms,51.53439747914806,-0.13913337855566188,Pub
+190,"Camden High Street, London, the UK",-0.140556,51.536388,Camden Coffee House,51.54001764473969,-0.1410737077664214,Coffee Shop
+191,"Camden High Street, London, the UK",-0.140556,51.536388,The Golden Lion,51.53916552300529,-0.13605452676559304,Pub
+192,"Camden High Street, London, the UK",-0.140556,51.536388,Harrington Square,51.533161298988546,-0.13840993253386352,Park
+193,"Camden High Street, London, the UK",-0.140556,51.536388,Belushi's,51.535958044922474,-0.13968231936740197,Bar
+194,"Camden High Street, London, the UK",-0.140556,51.536388,Lidl,51.536337334401864,-0.1402285382895035,Supermarket
+195,"Camden High Street, London, the UK",-0.140556,51.536388,Subway,51.53688963568056,-0.14052947067957788,Sandwich Place
+196,"Camden High Street, London, the UK",-0.140556,51.536388,KFC Mornington Crescent,51.53572,-0.13975248,Fast Food Restaurant
+197,"Camden High Street, London, the UK",-0.140556,51.536388,Chai Thali,51.53787,-0.13683257,Restaurant
+198,"Camden High Street, London, the UK",-0.140556,51.536388,Woodys Grill,51.53522532050063,-0.1391641213894473,Halal Restaurant
+199,"Camden High Street, London, the UK",-0.140556,51.536388,Theatro Technis,51.535555170910996,-0.13473403503142017,Indie Theater
+200,"Camden High Street, London, the UK",-0.140556,51.536388,ICCO,51.535079,-0.139082,Pizza Place
+201,"Camden High Street, London, the UK",-0.140556,51.536388,Carlow House,51.53541421331776,-0.14026897271577785,Hotel
+202,"Camden High Street, London, the UK",-0.140556,51.536388,Sen Nin,51.53788850581043,-0.13921943594684089,Japanese Restaurant
+203,"Camden High Street, London, the UK",-0.140556,51.536388,Pret A Manger,51.53502417256764,-0.13893290426472615,Sandwich Place
+204,"Camden High Street, London, the UK",-0.140556,51.536388,Inamo,51.53432838327098,-0.1391925752265109,Japanese Restaurant
+205,"Camden High Street, London, the UK",-0.140556,51.536388,Oakley Square,51.53353092652562,-0.13658140472786937,Park
+206,"Camden High Street, London, the UK",-0.140556,51.536388,Sapores Shisha Lounge,51.53519467174387,-0.13929247856140137,Hookah Bar
+207,"Camden High Street, London, the UK",-0.140556,51.536388,Londis,51.53538917505744,-0.13408814249470638,Convenience Store
+208,"Camden High Street, London, the UK",-0.140556,51.536388,St. Pancras Fountain,51.5354415979215,-0.14747053384780884,Fountain
+209,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Spa at Four Seasons Hotel,51.504411755003,-0.15012141113856853,Spa
+210,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Lanesborough,51.50265494475375,-0.15261616449456278,Hotel
+211,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Cigar Terrace,51.502694049330046,-0.15378453806270292,Roof Deck
+212,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Wellesley Knightsbridge,51.502392374780065,-0.15361986011885165,Hotel
+213,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Library Bar,51.50269456732321,-0.15242262457574102,Cocktail Bar
+214,"Hyde Park Corner, London, the UK",-0.15125,51.502777,InterContinental London Park Lane,51.5036475,-0.1502842,Hotel
+215,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Hyde Park Corner,51.503039451809734,-0.1527571678161621,Plaza
+216,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Four Seasons Hotel,51.50452203516731,-0.1499783992767334,Hotel
+217,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Cigar Lounge,51.50216431861335,-0.15212825624310394,Bar
+218,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Céleste,51.502627896451436,-0.1526087605225853,Restaurant
+219,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Four Season Lobby,51.504462969682535,-0.1500971748004302,Coffee Shop
+220,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Garden Room,51.50219277825037,-0.15215575029086162,Lounge
+221,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Lanesborough Club & Spa,51.50205254171935,-0.15272596792558008,Gym / Fitness Center
+222,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Coya London,51.50430866903813,-0.14774130664594515,Latin American Restaurant
+223,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Halkin by COMO,51.500736822720285,-0.15215881905624332,Hotel
+224,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Playboy Club London,51.5047760795806,-0.14966680960390055,Cocktail Bar
+225,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Galvin at Windows,51.50548243580125,-0.15021631853984455,French Restaurant
+226,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Royal Artillery Memorial,51.502651561626784,-0.15191887464957152,Sculpture Garden
+227,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Back Room,51.504210449514815,-0.14921489675893101,Pub
+228,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Hard Rock Cafe London,51.5042118,-0.1493132,American Restaurant
+229,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Nobu,51.50506856589684,-0.1505569830427778,Japanese Restaurant
+230,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Intercontinental Club Lounge,51.503621905349036,-0.15027672136460243,Lounge
+231,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Theo Randall,51.50388582091466,-0.1499630018150601,Italian Restaurant
+232,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Caledonian Club,51.50065082164008,-0.15273614506956257,Lounge
+233,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Amaranto Restaurant,51.504508099679676,-0.15019500867852525,Italian Restaurant
+234,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Berkeley,51.501908065483825,-0.15640333005956902,Hotel
+235,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Cookbook Cafe,51.50379305054894,-0.15076673400854443,Restaurant
+236,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Apsley House,51.50331576128138,-0.1515631636534676,History Museum
+237,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Hilton,51.50553927568633,-0.15029491266940054,Hotel
+238,"Hyde Park Corner, London, the UK",-0.15125,51.502777,45 Park Lane,51.50639,-0.15162,Hotel
+239,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Wellington Lounge,51.50360417017295,-0.15028455943619404,Lounge
+240,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Grenadier,51.50145158488154,-0.15479900834759258,Gastropub
+241,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Hard Rock Shop,51.50387815290377,-0.14889833785216244,Souvenir Shop
+242,"Hyde Park Corner, London, the UK",-0.15125,51.502777,CUT,51.50639349999999,-0.1515456,Steakhouse
+243,"Hyde Park Corner, London, the UK",-0.15125,51.502777,El Pirata,51.50509845814616,-0.14820610996251038,Tapas Restaurant
+244,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Athenaeum‬‪‬‪‬ Hotel,51.504589010350834,-0.1473530978790911,Hotel
+245,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Afternoon Tea at The Berkeley,51.50189088144101,-0.1564185920137216,Tea Room
+246,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Afternoon Tea at The Athenaeum‬,51.50460201216551,-0.14752233002286255,Tea Room
+247,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Italian Cultural Institute in London,51.4995151680834,-0.1519759184553437,Event Space
+248,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Rose Garden,51.503851,-0.155766,Garden
+249,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Metropolitan Hotel by COMO,51.50510076204158,-0.15009679103968665,Hotel
+250,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Buckingham Palace Garden,51.500782092628455,-0.14548301696777344,Garden
+251,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Belgrave Square,51.49916246870442,-0.1535135507583618,Plaza
+252,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Palm Court,51.50496927106825,-0.14728661349892358,Tea Room
+253,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Jazz Lounge,51.502641,-0.153734,Italian Restaurant
+254,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Dorchester,51.5070223,-0.1522241,Hotel
+255,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Loulou's,51.50633532642817,-0.1474951374875801,Social Club
+256,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Galvin at The Athenaeum,51.50460201216551,-0.14752233002286255,Restaurant
+257,"Hyde Park Corner, London, the UK",-0.15125,51.502777,EL&N,51.506815937331424,-0.15188813209533691,Café
+258,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Vault at Hard Rock Cafe,51.503826020124016,-0.14885795726404508,Museum
+259,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Les Ambassadeurs,51.50410406419013,-0.15064283310401738,Casino
+260,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Memorial Gates,51.502460095881446,-0.14906913042068481,Memorial Site
+261,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Old English Coffee House,51.499926582290534,-0.15136370288251969,Café
+262,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Marcus,51.50203667724804,-0.15603583306074142,English Restaurant
+263,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Collins Room,51.50187967296643,-0.15639305993135605,Hotel Bar
+264,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Mayfair House,51.50605215402007,-0.14785463820464095,Hotel
+265,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Prezzo,51.50553539735027,-0.14871182183286644,Italian Restaurant
+266,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Salloos,51.501661115350885,-0.15699911971833316,Pakistani Restaurant
+267,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Blue Bar,51.50202744123693,-0.15642913251292367,Hotel Bar
+268,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Smith & Whistle,51.50480462516687,-0.1468627860627018,Cocktail Bar
+269,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Romanian Cultural Institute,51.50033159983074,-0.1537207395750939,Cultural Center
+270,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Ametsa with Arzak Instruction,51.500720971544176,-0.1520339662396446,Spanish Restaurant
+271,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Al Basha,51.50232087398768,-0.15754416224288817,Middle Eastern Restaurant
+272,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Curzon Mayfair,51.50655508583391,-0.14789262922006477,Movie Theater
+273,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Al Sultan,51.50639653843626,-0.147875798683467,Lebanese Restaurant
+274,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Withdrawing Room,51.5026813574405,-0.15236026990146953,Lounge
+275,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Prêt-À-Portea,51.5019167319989,-0.1564236038694734,Tea Room
+276,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Bar at the Dorchester,51.50698274745216,-0.1525402939168156,Cocktail Bar
+277,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Ella Canta,51.50376750008256,-0.15061501281152945,Mexican Restaurant
+278,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Le Boudin Blanc,51.5064386971617,-0.14721322321771768,French Restaurant
+279,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Australian War Memorial,51.502127126420184,-0.1515039452260524,Memorial Site
+280,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Tiger Cookies,51.506258,-0.146815,Coffee Shop
+281,"Hyde Park Corner, London, the UK",-0.15125,51.502777,RAF Club,51.50402110220539,-0.14834537644395004,Lounge
+282,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Piccolo Bar,51.50619182459469,-0.14755713156484596,Deli / Bodega
+283,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Mamounia Lounge,51.50671795161745,-0.1480767971884112,Lounge
+284,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Sofra,51.506247868409574,-0.1470781953732789,Turkish Restaurant
+285,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Horse & Groom,51.499292300593865,-0.1509751870848449,Pub
+286,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Chess Club,51.50684425076015,-0.14816051500907418,Lounge
+287,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Yamal Alsham | مطعم يامال الشام (Yamal Alsham),51.502340196535584,-0.15738778903269665,Middle Eastern Restaurant
+288,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Queen Elizabeth Gate,51.50409179553756,-0.15277582397885087,Historic Site
+289,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Nags Head,51.50116702412782,-0.1568638899033845,Pub
+290,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Pret A Manger,51.501690392607,-0.15166282653808594,Sandwich Place
+291,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Duke of Wellington Square,51.502630041640465,-0.15130170831440015,Plaza
+292,"Hyde Park Corner, London, the UK",-0.15125,51.502777,The Lodge Café,51.503169680658665,-0.1528671383857727,Café
+293,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Rose and Crown,51.50385051429352,-0.1488619549922322,Pub
+294,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Hyde Park Corner London Underground Station,51.50310540734772,-0.1526865102789818,Metro Station
+295,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Achilles Statue,51.504471948678976,-0.15274107456207275,Outdoor Sculpture
+296,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Vicolo Deli - General Store,51.49931837563277,-0.15068432143086183,Italian Restaurant
+297,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Prince Pharmacy صيدلية الأمير,51.50240658205701,-0.15746823769854942,Pharmacy
+298,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Egg,51.500688590132405,-0.1568019390106201,Accessories Store
+299,"Hyde Park Corner, London, the UK",-0.15125,51.502777,Constitution Hill,51.50253515584917,-0.14463248162356596,Road
+300,"Downing Street, London, the UK",-0.1275,51.503223,Horse Guards Parade,51.504847331160235,-0.12659034740377378,Plaza
+301,"Downing Street, London, the UK",-0.1275,51.503223,Churchill War Rooms (Churchill Museum & Cabinet War Rooms),51.502079,-0.129305,Historic Site
+302,"Downing Street, London, the UK",-0.1275,51.503223,Duck Island Cottage,51.50283358126919,-0.12986760139976541,Garden
+303,"Downing Street, London, the UK",-0.1275,51.503223,Roux at Parliament Square,51.501225413834284,-0.12818236675651487,French Restaurant
+304,"Downing Street, London, the UK",-0.1275,51.503223,Guards Memorial,51.5045946228173,-0.12943801372643665,Monument / Landmark
+305,"Downing Street, London, the UK",-0.1275,51.503223,Women of World War II,51.50345064560305,-0.1260076089661174,Monument / Landmark
+306,"Downing Street, London, the UK",-0.1275,51.503223,The Household Cavalry Museum,51.504868872914344,-0.1265941354930367,History Museum
+307,"Downing Street, London, the UK",-0.1275,51.503223,Parliament Square,51.500595,-0.126802,Plaza
+308,"Downing Street, London, the UK",-0.1275,51.503223,Whitehall Place,51.50518488709043,-0.12656944843706183,Plaza
+309,"Downing Street, London, the UK",-0.1275,51.503223,Elizabeth Tower (Big Ben) (Big Ben (Elizabeth Tower)),51.50062,-0.124578,Monument / Landmark
+310,"Downing Street, London, the UK",-0.1275,51.503223,St James's Park,51.50325316049429,-0.1329946517944336,Park
+311,"Downing Street, London, the UK",-0.1275,51.503223,Winston Churchill Statue,51.50079877234231,-0.126266613247528,Outdoor Sculpture
+312,"Downing Street, London, the UK",-0.1275,51.503223,Royal Institution of Chartered Surveyors (RICS),51.50102113108736,-0.12808932766906128,Event Space
+313,"Downing Street, London, the UK",-0.1275,51.503223,Corinthia Hotel,51.506606723475606,-0.12446016991110907,Hotel
+314,"Downing Street, London, the UK",-0.1275,51.503223,ESPA Life at Corinthia,51.506401908218095,-0.12511432170867917,Spa
+315,"Downing Street, London, the UK",-0.1275,51.503223,Institute of Contemporary Arts (ICA),51.50626501066752,-0.13081669807434082,Art Gallery
+316,"Downing Street, London, the UK",-0.1275,51.503223,Trafalgar Studios,51.50665145618764,-0.12737761183304314,Theater
+317,"Downing Street, London, the UK",-0.1275,51.503223,ICA Cinema,51.506018298123784,-0.13106831594409554,Indie Movie Theater
+318,"Downing Street, London, the UK",-0.1275,51.503223,The Royal Horseguards,51.50612671032344,-0.12422444201635648,Hotel
+319,"Downing Street, London, the UK",-0.1275,51.503223,Whitehall Gardens,51.506353735053956,-0.12289968472873267,Garden
+320,"Downing Street, London, the UK",-0.1275,51.503223,Afternoon Tea at the Corinthia Hotel,51.506572305834275,-0.1243504500869256,Tea Room
+321,"Downing Street, London, the UK",-0.1275,51.503223,Costa Coffee,51.50093364186963,-0.12480467457557845,Coffee Shop
+322,"Downing Street, London, the UK",-0.1275,51.503223,St James's Café,51.503997741566856,-0.13138982960733814,Café
+323,"Downing Street, London, the UK",-0.1275,51.503223,Westminster Hall,51.49994724212344,-0.1253664493560791,Historic Site
+324,"Downing Street, London, the UK",-0.1275,51.503223,Great Scotland Yard Hotel,51.5064253,-0.1261457,Hotel
+325,"Downing Street, London, the UK",-0.1275,51.503223,The Red Lion,51.502099991088,-0.12573262392515971,Pub
+326,"Downing Street, London, the UK",-0.1275,51.503223,Bassoon Bar,51.506414793599966,-0.12404580869630003,Hotel Bar
+327,"Downing Street, London, the UK",-0.1275,51.503223,Lobby Lounge,51.50637874867045,-0.12429288296694853,Lounge
+328,"Downing Street, London, the UK",-0.1275,51.503223,Trafalgar Square Lions,51.50764064540292,-0.12788772583007812,Outdoor Sculpture
+329,"Downing Street, London, the UK",-0.1275,51.503223,Waterstones,51.50764972496243,-0.12712953878194402,Bookstore
+330,"Downing Street, London, the UK",-0.1275,51.503223,Kerridge’s Bar & Grill,51.506728,-0.12452,Restaurant
+331,"Downing Street, London, the UK",-0.1275,51.503223,Nelson Mandela Statue,51.50047446583063,-0.12718661507931803,Outdoor Sculpture
+332,"Downing Street, London, the UK",-0.1275,51.503223,The Northall,51.50659890641054,-0.12382149696350099,English Restaurant
+333,"Downing Street, London, the UK",-0.1275,51.503223,Thai Square Spa,51.50712645669751,-0.1255488395690918,Spa
+334,"Downing Street, London, the UK",-0.1275,51.503223,Mall Galleries,51.50637034271287,-0.12977573131362777,Art Gallery
+335,"Downing Street, London, the UK",-0.1275,51.503223,Northumberland House,51.50680059043122,-0.12563856926683586,Hotel
+336,"Downing Street, London, the UK",-0.1275,51.503223,Strangers' Bar,51.4995641497275,-0.12391947082597803,Bar
+337,"Downing Street, London, the UK",-0.1275,51.503223,Admiralty Arch,51.506825954118206,-0.12878894805908203,Monument / Landmark
+338,"Downing Street, London, the UK",-0.1275,51.503223,Civil Service Club,51.50653918302719,-0.12560912259900278,Social Club
+339,"Downing Street, London, the UK",-0.1275,51.503223,Playhouse Theatre,51.50679820142435,-0.12347881509881982,Theater
+340,"Downing Street, London, the UK",-0.1275,51.503223,The Sherlock Holmes,51.50736,-0.125223,Pub
+341,"Downing Street, London, the UK",-0.1275,51.503223,Citadines Trafalgar Square London,51.50702046674641,-0.12468521756653153,Hotel
+342,"Downing Street, London, the UK",-0.1275,51.503223,The Tattershall Castle,51.504534,-0.122594,Pub
+343,"Downing Street, London, the UK",-0.1275,51.503223,Abraham Lincoln Statue,51.500554742778775,-0.12767263217902708,Outdoor Sculpture
+344,"Downing Street, London, the UK",-0.1275,51.503223,Poets' Corner,51.49918584512919,-0.12648224830627441,Historic Site
+345,"Downing Street, London, the UK",-0.1275,51.503223,hub London Westminster Abbey,51.4995885,-0.1315428,Hotel
+346,"Downing Street, London, the UK",-0.1275,51.503223,The Westminster Abbey Shop,51.49957288694409,-0.12916858859331523,Gift Shop
+347,"Downing Street, London, the UK",-0.1275,51.503223,Rochelle Canteen at ICA,51.506258,-0.13064,English Restaurant
+348,"Downing Street, London, the UK",-0.1275,51.503223,Costa Pronto,51.50100203421485,-0.12474449628123091,Coffee Shop
+349,"Downing Street, London, the UK",-0.1275,51.503223,"The Trafalgar St. James London, Curio Collection by Hilton",51.50733680732381,-0.12907326221466062,Hotel
+350,"Downing Street, London, the UK",-0.1275,51.503223,St. Stephens Tavern,51.50104512723709,-0.1255105271062834,Pub
+351,"Downing Street, London, the UK",-0.1275,51.503223,Hall And Woodhouse,51.501010875708474,-0.12543775373142357,Pub
+352,"Downing Street, London, the UK",-0.1275,51.503223,The Rooftop,51.50733457828577,-0.12921568604879521,Cocktail Bar
+353,"Downing Street, London, the UK",-0.1275,51.503223,King George VI and Queen Elizabeth Memorial,51.50504756806769,-0.13370630903576655,Monument / Landmark
+354,"Downing Street, London, the UK",-0.1275,51.503223,Greggs,51.50102,-0.125475,Bakery
+355,"Downing Street, London, the UK",-0.1275,51.503223,Pickles Sandwich Bar,51.500912979957086,-0.12989533432616363,Café
+356,"Downing Street, London, the UK",-0.1275,51.503223,Dean's Yard,51.49898546549773,-0.12897712431046648,Plaza
+357,"Downing Street, London, the UK",-0.1275,51.503223,Boots,51.501037873659875,-0.12599650040061394,Pharmacy
+358,"Downing Street, London, the UK",-0.1275,51.503223,Caffè Nero,51.50100382172927,-0.12474102985321715,Coffee Shop
+359,"Downing Street, London, the UK",-0.1275,51.503223,Westminster Arms,51.50047960133786,-0.12954368678325193,Pub
+360,"Downing Street, London, the UK",-0.1275,51.503223,WHSmith,51.501258,-0.124848,Bookstore
+361,"Downing Street, London, the UK",-0.1275,51.503223,Wesley's Cafe,51.500138566519766,-0.12977867367823218,Café
+362,"Downing Street, London, the UK",-0.1275,51.503223,Cellarium Cafe & Terrace,51.49881402371398,-0.12843155623462757,Café
+363,"Downing Street, London, the UK",-0.1275,51.503223,Bali Bombing Memorial,51.50257920668944,-0.12989039329569677,Sculpture Garden
+364,"Downing Street, London, the UK",-0.1275,51.503223,Bus Stop C,51.50144374533117,-0.1261109230713539,Bus Stop
+365,"Downing Street, London, the UK",-0.1275,51.503223,The Two Chairmen,51.50063264772029,-0.13178213837478256,Pub
+366,"Downing Street, London, the UK",-0.1275,51.503223,Treasure Walks London Royal Palaces and Parks Tour and Scavenger Hunt,51.50082216506806,-0.12434720993041992,Trail
+367,"Downing Street, London, the UK",-0.1275,51.503223,Pub On The Thames,51.504355,-0.122727,Bar
+368,"Downing Street, London, the UK",-0.1275,51.503223,Sports and Social Bar,51.49923677757062,-0.12461897763446843,Bar
+369,"King's Road, London, the UK",-0.168874,51.48737,The Ivy Chelsea Garden,51.48703516703897,-0.16937881708145142,English Restaurant
+370,"King's Road, London, the UK",-0.168874,51.48737,Phật Phúc Noodle Bar,51.48761963217226,-0.16904402182939238,Vietnamese Restaurant
+371,"King's Road, London, the UK",-0.168874,51.48737,Anthropologie,51.48801219256875,-0.1666530953311291,Women's Store
+372,"King's Road, London, the UK",-0.168874,51.48737,Chelsea Gardener,51.48821340092058,-0.1693800621416454,Garden Center
+373,"King's Road, London, the UK",-0.168874,51.48737,GAIL's Bakery,51.48688252060945,-0.1700624201288212,Bakery
+374,"King's Road, London, the UK",-0.168874,51.48737,Waitrose & Partners,51.48832531511091,-0.16706012462134368,Supermarket
+375,"King's Road, London, the UK",-0.168874,51.48737,Hagen,51.487985191371195,-0.16742883253048277,Coffee Shop
+376,"King's Road, London, the UK",-0.168874,51.48737,Le Pain Quotidien,51.486946646919385,-0.1695987582206726,Bakery
+377,"King's Road, London, the UK",-0.168874,51.48737,St Luke's Garden,51.48930528594537,-0.16927524007209088,Park
+378,"King's Road, London, the UK",-0.168874,51.48737,Proud Chelsea,51.4879052334089,-0.16768002435992801,Art Gallery
+379,"King's Road, London, the UK",-0.168874,51.48737,Oka Chelsea,51.48622411633148,-0.1720087144878813,Japanese Restaurant
+380,"King's Road, London, the UK",-0.168874,51.48737,Waterstones,51.48882930154984,-0.16551167867736696,Bookstore
+381,"King's Road, London, the UK",-0.168874,51.48737,Chelsea Farmers Market,51.48802390839242,-0.16955852508544922,Shopping Plaza
+382,"King's Road, London, the UK",-0.168874,51.48737,L'ETO Caffè,51.4880332487987,-0.16729800062826602,Café
+383,"King's Road, London, the UK",-0.168874,51.48737,Heartcore,51.48886248521104,-0.1661496447843496,Gym / Fitness Center
+384,"King's Road, London, the UK",-0.168874,51.48737,Casa Manolo,51.48730248306333,-0.16916367800452567,Tapas Restaurant
+385,"King's Road, London, the UK",-0.168874,51.48737,La Pizzeria,51.48797740132703,-0.1697175456680159,Pizza Place
+386,"King's Road, London, the UK",-0.168874,51.48737,My Old Dutch,51.486639616068075,-0.17103805729117072,Creperie
+387,"King's Road, London, the UK",-0.168874,51.48737,The Market Place Restaurant Bar,51.48810873423576,-0.169312883102064,Burger Joint
+388,"King's Road, London, the UK",-0.168874,51.48737,Venchi,51.489239341994235,-0.16426476718180824,Ice Cream Shop
+389,"King's Road, London, the UK",-0.168874,51.48737,Five Guys,51.4882603640871,-0.16633909821325688,Burger Joint
+390,"King's Road, London, the UK",-0.168874,51.48737,Colombier (Le),51.49002576431831,-0.17308923587298833,French Restaurant
+391,"King's Road, London, the UK",-0.168874,51.48737,Amorino,51.48945493068654,-0.16380283457659325,Ice Cream Shop
+392,"King's Road, London, the UK",-0.168874,51.48737,JOE & THE JUICE,51.48939675356898,-0.1640009880065918,Juice Bar
+393,"King's Road, London, the UK",-0.168874,51.48737,st luke's playground,51.49010758808326,-0.16915877430782109,Playground
+394,"King's Road, London, the UK",-0.168874,51.48737,Ziani,51.487476922582125,-0.16457990307459833,Italian Restaurant
+395,"King's Road, London, the UK",-0.168874,51.48737,The Cross Keys,51.483530859210006,-0.17041543009208643,Pub
+396,"King's Road, London, the UK",-0.168874,51.48737,Tom's Kitchen,51.490467902865134,-0.16810698467110774,English Restaurant
+397,"King's Road, London, the UK",-0.168874,51.48737,Big Easy Bar.B.Q & Crabshack,51.48533042645628,-0.17407732929629638,American Restaurant
+398,"King's Road, London, the UK",-0.168874,51.48737,50 Cheyne Walk,51.483475,-0.169513,French Restaurant
+399,"King's Road, London, the UK",-0.168874,51.48737,Maitre Choux,51.489670649606765,-0.16300857067108154,Bakery
+400,"King's Road, London, the UK",-0.168874,51.48737,Elystan Street,51.49168435333679,-0.16764038179040777,English Restaurant
+401,"King's Road, London, the UK",-0.168874,51.48737,Benihana,51.489126171269184,-0.1644911721756323,Japanese Restaurant
+402,"King's Road, London, the UK",-0.168874,51.48737,The Phoenix,51.48854321389111,-0.16259740608586906,Pub
+403,"King's Road, London, the UK",-0.168874,51.48737,The Surprise,51.486309424805505,-0.163068592447719,Pub
+404,"King's Road, London, the UK",-0.168874,51.48737,JOE & THE JUICE,51.4851635,-0.17396,Juice Bar
+405,"King's Road, London, the UK",-0.168874,51.48737,Paul,51.48966594939946,-0.16374218657460413,Bakery
+406,"King's Road, London, the UK",-0.168874,51.48737,Tedworth Square,51.48697169980087,-0.1630568504333496,Park
+407,"The Shankill Road, Belfast, the UK",-5.953,54.604301,Subway,54.60425240192931,-5.9506016755253155,Sandwich Place
+408,"The Shankill Road, Belfast, the UK",-5.953,54.604301,Iceland,54.60403333753406,-5.947710642657926,Grocery Store
+409,"The Shankill Road, Belfast, the UK",-5.953,54.604301,Co-op Food,54.60412392733702,-5.949314827699881,Grocery Store
+410,"The Shankill Road, Belfast, the UK",-5.953,54.604301,Dolly's Mixtures,54.60440149332119,-5.953259468078613,Candy Store
+411,"Abbey Road, London, the UK",-0.177331,51.532005,Abbey Road Studios,51.53237121009653,-0.17777877833888267,Recording Studio
+412,"Abbey Road, London, the UK",-0.177331,51.532005,Abbey Road Crossing,51.53206254650124,-0.17726827913752435,Historic Site
+413,"Abbey Road, London, the UK",-0.177331,51.532005,Abbey Road Shop,51.53231147760432,-0.17773999226708334,Gift Shop
+414,"Abbey Road, London, the UK",-0.177331,51.532005,Panzer's,51.53364563504979,-0.17229982565914614,Deli / Bodega
+415,"Abbey Road, London, the UK",-0.177331,51.532005,Lord's Cricket Ground (MCC),51.52988369948918,-0.17248191812541336,Cricket Ground
+416,"Abbey Road, London, the UK",-0.177331,51.532005,GAIL's Bakery,51.53388536719681,-0.1717371180037255,Bakery
+417,"Abbey Road, London, the UK",-0.177331,51.532005,Lord's Pavilion,51.52909181713893,-0.17355927652203298,Cricket Ground
+418,"Abbey Road, London, the UK",-0.177331,51.532005,Heartcore Pilates,51.535570324276925,-0.17500229327123462,Gym / Fitness Center
+419,"Abbey Road, London, the UK",-0.177331,51.532005,Heartcore Fitness,51.53572522768873,-0.17474055290222165,Pilates Studio
+420,"Abbey Road, London, the UK",-0.177331,51.532005,Violet Hill Gardens,51.53286722907555,-0.1824432531345325,Garden
+421,"Abbey Road, London, the UK",-0.177331,51.532005,Mound Stand,51.529356460626595,-0.1717473915282526,Athletics & Sports
+422,"Abbey Road, London, the UK",-0.177331,51.532005,Gelato Mio,51.53382375708708,-0.17111443371112248,Ice Cream Shop
+423,"Abbey Road, London, the UK",-0.177331,51.532005,The Ivy Cafe,51.5335088055217,-0.170525809537556,Modern European Restaurant
+424,"Abbey Road, London, the UK",-0.177331,51.532005,Yasmeen Restaurant,51.535251,-0.181345,Middle Eastern Restaurant
+425,"Abbey Road, London, the UK",-0.177331,51.532005,Compton Stand,51.530397902723195,-0.1723054075390324,Cricket Ground
+426,"Abbey Road, London, the UK",-0.177331,51.532005,Pret A Manger,51.533996556644155,-0.17148930256991576,Sandwich Place
+427,"Abbey Road, London, the UK",-0.177331,51.532005,Duke of York,51.53410686037119,-0.1713111001883438,Gastropub
+428,"Abbey Road, London, the UK",-0.177331,51.532005,Boots,51.533679707779406,-0.17088369805909734,Pharmacy
+429,"Abbey Road, London, the UK",-0.177331,51.532005,PizzaExpress,51.535449225495796,-0.18162867598573484,Pizza Place
+430,"Abbey Road, London, the UK",-0.177331,51.532005,Starbucks,51.533911,-0.171353,Coffee Shop
+431,"Abbey Road, London, the UK",-0.177331,51.532005,L'Aventure,51.53514862060547,-0.18166601657867432,French Restaurant
+432,"Abbey Road, London, the UK",-0.177331,51.532005,Tesco Express,51.530882377076416,-0.178412517019272,Grocery Store
+433,"Abbey Road, London, the UK",-0.177331,51.532005,Abbey Cafe,51.533649210451486,-0.17886833193708873,Café
+434,"Abbey Road, London, the UK",-0.177331,51.532005,Beatles Coffee Shop,51.53451472886326,-0.17408512822638655,Coffee Shop
+435,"Abbey Road, London, the UK",-0.177331,51.532005,Fora,51.533688843402196,-0.17207438068713288,Turkish Restaurant
+436,"Abbey Road, London, the UK",-0.177331,51.532005,The Garuda Studio,51.53640092478545,-0.17587294713337545,Yoga Studio
+437,"Carnaby Street, London, the UK",-0.138889,51.513332,Cahoots,51.51252270693244,-0.13862309742116488,Cocktail Bar
+438,"Carnaby Street, London, the UK",-0.138889,51.513332,We Built This City,51.51244482200528,-0.13806076988303054,Gift Shop
+439,"Carnaby Street, London, the UK",-0.138889,51.513332,Carnaby Street,51.513209538291676,-0.13889551162719724,Pedestrian Plaza
+440,"Carnaby Street, London, the UK",-0.138889,51.513332,Kingly Court,51.51263165734176,-0.13876898482724873,Food Court
+441,"Carnaby Street, London, the UK",-0.138889,51.513332,lululemon athletica,51.51261907912644,-0.14028512070210394,Clothing Store
+442,"Carnaby Street, London, the UK",-0.138889,51.513332,Liberty of London,51.51372497936781,-0.14050994852482712,Department Store
+443,"Carnaby Street, London, the UK",-0.138889,51.513332,Dishoom,51.51307933813641,-0.13968944549560547,Indian Restaurant
+444,"Carnaby Street, London, the UK",-0.138889,51.513332,The Photographers' Gallery,51.51506983562191,-0.1389692294992966,Art Gallery
+445,"Carnaby Street, London, the UK",-0.138889,51.513332,END. London,51.51308184590304,-0.13751108225453154,Clothing Store
+446,"Carnaby Street, London, the UK",-0.138889,51.513332,Little Social,51.51352414150624,-0.1422119627642784,French Restaurant
+447,"Carnaby Street, London, the UK",-0.138889,51.513332,Hauser & Wirth,51.512,-0.14121193,Art Gallery
+448,"Carnaby Street, London, the UK",-0.138889,51.513332,BrewDog Soho,51.51506401548841,-0.13725131750106812,Beer Bar
+449,"Carnaby Street, London, the UK",-0.138889,51.513332,Tommy Hilfiger,51.51136490921975,-0.1387683533729387,Clothing Store
+450,"Carnaby Street, London, the UK",-0.138889,51.513332,Pollen Street Social,51.51342620568972,-0.1422079059902279,English Restaurant
+451,"Carnaby Street, London, the UK",-0.138889,51.513332,Bombay Bustle,51.512953452986906,-0.14219025372062952,Indian Restaurant
+452,"Carnaby Street, London, the UK",-0.138889,51.513332,Sketch,51.51269374318593,-0.14152944087982178,Modern European Restaurant
+453,"Carnaby Street, London, the UK",-0.138889,51.513332,Goodman Steakhouse,51.513046199835316,-0.14220250183932326,Steakhouse
+454,"Carnaby Street, London, the UK",-0.138889,51.513332,Cass Art,51.51393580216873,-0.13521390569657823,Arts & Crafts Store
+455,"Carnaby Street, London, the UK",-0.138889,51.513332,& Other Stories,51.51490959025801,-0.14111725295179028,Women's Store
+456,"Carnaby Street, London, the UK",-0.138889,51.513332,COS,51.51354363481197,-0.14096722019446317,Clothing Store
+457,"Carnaby Street, London, the UK",-0.138889,51.513332,Cloth House,51.51515079123586,-0.13622604287654724,Fabric Shop
+458,"Carnaby Street, London, the UK",-0.138889,51.513332,The Kati Roll Company,51.51513905984989,-0.13738198980131475,Indian Restaurant
+459,"Carnaby Street, London, the UK",-0.138889,51.513332,Franco Manca,51.5153661387979,-0.1364338513869081,Pizza Place
+460,"Carnaby Street, London, the UK",-0.138889,51.513332,The East India Company,51.5127499915302,-0.14118241890949879,Gift Shop
+461,"Carnaby Street, London, the UK",-0.138889,51.513332,Agent Provocateur,51.513978482394755,-0.134598273078281,Lingerie Store
+462,"Carnaby Street, London, the UK",-0.138889,51.513332,Muji,51.515647807699914,-0.13907574329914146,Miscellaneous Shop
+463,"Carnaby Street, London, the UK",-0.138889,51.513332,Lush,51.515631934996996,-0.1386313083128742,Cosmetics Shop
+464,"Carnaby Street, London, the UK",-0.138889,51.513332,Ergon Deli,51.513225295742195,-0.1417717401575143,Deli / Bodega
+465,"Carnaby Street, London, the UK",-0.138889,51.513332,Paul A Young Fine Chocolates,51.514072261203864,-0.1345575864137745,Chocolate Shop
+466,"Carnaby Street, London, the UK",-0.138889,51.513332,Gosh! Comics,51.51293204417029,-0.13431955761299902,Comic Shop
+467,"Carnaby Street, London, the UK",-0.138889,51.513332,77 Diamonds,51.51366524587783,-0.143339520247421,Jewelry Store
+468,"Carnaby Street, London, the UK",-0.138889,51.513332,Burberry,51.5103915,-0.1388527,Clothing Store
+469,"Carnaby Street, London, the UK",-0.138889,51.513332,Bar Remo,51.514574423902545,-0.14240433800825497,Italian Restaurant
+470,"Carnaby Street, London, the UK",-0.138889,51.513332,Ben's Cookies,51.51592578036752,-0.1365487399829042,Bakery
+471,"Carnaby Street, London, the UK",-0.138889,51.513332,Ember Yard,51.51541599999999,-0.136508,Tapas Restaurant
+472,"Carnaby Street, London, the UK",-0.138889,51.513332,Vivienne Westwood,51.511846783942865,-0.1423634373173422,Clothing Store
+473,"Carnaby Street, London, the UK",-0.138889,51.513332,Richard James,51.51128646611087,-0.14105550634526023,Tailor Shop
+474,"Carnaby Street, London, the UK",-0.138889,51.513332,Lina Stores,51.51226022259545,-0.134187971755539,Gourmet Shop
+475,"Carnaby Street, London, the UK",-0.138889,51.513332,LOLA's Cupcakes,51.51548397710461,-0.14130105908680377,Cupcake Shop
+476,"Carnaby Street, London, the UK",-0.138889,51.513332,Yumchaa,51.51516272275524,-0.13615112195544957,Tea Room
+477,"Carnaby Street, London, the UK",-0.138889,51.513332,Microsoft Flagship Store,51.515198,-0.142215,Electronics Store
+478,"Carnaby Street, London, the UK",-0.138889,51.513332,JOLT,51.516185764675825,-0.14046166652284045,Coffee Shop
+479,"Carnaby Street, London, the UK",-0.138889,51.513332,Ham Yard Hotel,51.5112358946631,-0.1346564016360778,Hotel
+480,"Carnaby Street, London, the UK",-0.138889,51.513332,Whole Foods Market,51.51048750937573,-0.13590689229976402,Grocery Store
+481,"Carnaby Street, London, the UK",-0.138889,51.513332,Chanel,51.51074732169219,-0.14288385446462465,Boutique
+482,"Carnaby Street, London, the UK",-0.138889,51.513332,Crème,51.514882,-0.135497,Dessert Shop
+483,"Carnaby Street, London, the UK",-0.138889,51.513332,Dior,51.51067583208067,-0.14268900146942398,Clothing Store
+484,"Carnaby Street, London, the UK",-0.138889,51.513332,The Golden Union Fish Bar,51.515419510699545,-0.1376419034771937,Fish & Chips Shop
+485,"Carnaby Street, London, the UK",-0.138889,51.513332,Randall & Aubin,51.51230184146461,-0.1339914292938638,Seafood Restaurant
+486,"Carnaby Street, London, the UK",-0.138889,51.513332,Sotheby's,51.51176412416014,-0.14384696362632585,Art Gallery
+487,"Carnaby Street, London, the UK",-0.138889,51.513332,Halcyon Gallery,51.5114518951079,-0.1437357255886561,Art Gallery
+488,"Carnaby Street, London, the UK",-0.138889,51.513332,Louis Vuitton,51.51078086183053,-0.14270925430139414,Boutique
+489,"Carnaby Street, London, the UK",-0.138889,51.513332,Pandora,51.51529327906864,-0.14256236744520465,Jewelry Store
+490,"Carnaby Street, London, the UK",-0.138889,51.513332,Kiss The Hippo,51.516438,-0.14184393,Coffee Shop
+491,"Carnaby Street, London, the UK",-0.138889,51.513332,Honest Burgers,51.51650152514323,-0.13990373374690535,Burger Joint
+492,"Carnaby Street, London, the UK",-0.138889,51.513332,Soho House,51.51396445911255,-0.1329109198775155,Lounge
+493,"Carnaby Street, London, the UK",-0.138889,51.513332,Emporio Armani,51.512634435938985,-0.1446030164484425,Clothing Store
+494,"Carnaby Street, London, the UK",-0.138889,51.513332,Café Royal Hotel,51.51020994158144,-0.13632388898493164,Hotel
+495,"Carnaby Street, London, the UK",-0.138889,51.513332,TAP Coffee No. 193,51.51550905,-0.13578831,Coffee Shop
+496,"Carnaby Street, London, the UK",-0.138889,51.513332,Miu Miu,51.51118351691097,-0.14330832327617632,Women's Store
+497,"Carnaby Street, London, the UK",-0.138889,51.513332,The London Edition (The London EDITION),51.5167621228894,-0.1360492052481277,Hotel
+498,"Carnaby Street, London, the UK",-0.138889,51.513332,Patek Philippe,51.510513413081874,-0.14258637764055337,Watch Shop
+499,"Carnaby Street, London, the UK",-0.138889,51.513332,Ralph Lauren,51.50980229456309,-0.1413938204885845,Clothing Store
+500,"Carnaby Street, London, the UK",-0.138889,51.513332,The London Gin Club,51.515631973206894,-0.13449047029108954,Cocktail Bar
+501,"Carnaby Street, London, the UK",-0.138889,51.513332,174 New Bond Street,51.51115352671999,-0.14326630695119932,Boutique
+502,"Carnaby Street, London, the UK",-0.138889,51.513332,Dolce&Gabbana,51.51279362491167,-0.14476113499481524,Men's Store
+503,"Carnaby Street, London, the UK",-0.138889,51.513332,Gerry's Wines & Spirits,51.51253119298924,-0.13299501184704293,Liquor Store
+504,"Carnaby Street, London, the UK",-0.138889,51.513332,The Punch Room,51.51690505990691,-0.13615140149379504,Cocktail Bar
+505,"Carnaby Street, London, the UK",-0.138889,51.513332,CHANEL Boutique,51.510669930603584,-0.14311980335310182,Boutique
+506,"Carnaby Street, London, the UK",-0.138889,51.513332,Pizza Pilgrims,51.51490606630752,-0.13330955652147533,Pizza Place
+507,"Carnaby Street, London, the UK",-0.138889,51.513332,Kaffeine,51.51678531888532,-0.13707989959255354,Coffee Shop
+508,"Carnaby Street, London, the UK",-0.138889,51.513332,Snog Pure Frozen Yogurt,51.51235392242397,-0.13380848262426007,Frozen Yogurt Shop
+509,"Carnaby Street, London, the UK",-0.138889,51.513332,Picturehouse Central,51.51069477131599,-0.13395564467364965,Multiplex
+510,"Carnaby Street, London, the UK",-0.138889,51.513332,Barrafina,51.51397737779247,-0.13280153274536133,Tapas Restaurant
+511,"Carnaby Street, London, the UK",-0.138889,51.513332,Berners Tavern,51.51669906429344,-0.13627354492200539,English Restaurant
+512,"Carnaby Street, London, the UK",-0.138889,51.513332,Neat Burger,51.51458,-0.1426476,Vegetarian / Vegan Restaurant
+513,"Carnaby Street, London, the UK",-0.138889,51.513332,street xo,51.511260830799415,-0.14108296737689893,Spanish Restaurant
+514,"Carnaby Street, London, the UK",-0.138889,51.513332,KIKO MILANO,51.515014066718344,-0.14163064175986584,Cosmetics Shop
+515,"Carnaby Street, London, the UK",-0.138889,51.513332,Jo Malone,51.51519944112558,-0.14479843491669625,Cosmetics Shop
+516,"Carnaby Street, London, the UK",-0.138889,51.513332,Royal Academy of Arts,51.50910852221246,-0.13947604747954753,Art Museum
+517,"Carnaby Street, London, the UK",-0.138889,51.513332,Elemis Day-Spa,51.51262238100525,-0.1453084353644919,Spa
+518,"Carnaby Street, London, the UK",-0.138889,51.513332,Kintan,51.51586414856608,-0.14255090234497242,Japanese Restaurant
+519,"Carnaby Street, London, the UK",-0.138889,51.513332,Asprey,51.510276962132956,-0.14233677910858017,Jewelry Store
+520,"Carnaby Street, London, the UK",-0.138889,51.513332,Cookhouse Joe,51.51561049616443,-0.1365767055854271,Diner
+521,"Carnaby Street, London, the UK",-0.138889,51.513332,MEATliquor,51.516288,-0.142958,Burger Joint
+522,"Carnaby Street, London, the UK",-0.138889,51.513332,JOE & THE JUICE,51.51606049455287,-0.14245748519897458,Juice Bar
+523,"Carnaby Street, London, the UK",-0.138889,51.513332,Queen's Theatre,51.511745137906665,-0.13256174342115595,Theater
+524,"Carnaby Street, London, the UK",-0.138889,51.513332,Regent Street Cinema,51.51685235133446,-0.1426574390316932,Movie Theater
+525,"Carnaby Street, London, the UK",-0.138889,51.513332,NikeTown,51.5154882,-0.1418238,Sporting Goods Shop
+526,"Carnaby Street, London, the UK",-0.138889,51.513332,Bravissimo,51.51655831804994,-0.14200102422674682,Lingerie Store
+527,"Carnaby Street, London, the UK",-0.138889,51.513332,Tory Burch,51.51129396604654,-0.1436417300010362,Women's Store
+528,"Carnaby Street, London, the UK",-0.138889,51.513332,Vapiano,51.51643927094741,-0.1411882855572975,Italian Restaurant
+529,"Carnaby Street, London, the UK",-0.138889,51.513332,Carpo Piccadilly,51.50956385935709,-0.1355359951960031,Gourmet Shop
+530,"Carnaby Street, London, the UK",-0.138889,51.513332,Piccadilly Circus,51.50996110016709,-0.1346522569656372,Plaza
+531,"Carnaby Street, London, the UK",-0.138889,51.513332,Victoria's Secret,51.51317020729852,-0.1453134047290396,Lingerie Store
+532,"Carnaby Street, London, the UK",-0.138889,51.513332,Urban Outfitters,51.51556711563462,-0.1406213703986795,Clothing Store
+533,"Carnaby Street, London, the UK",-0.138889,51.513332,Pierre Victoire,51.515433659425945,-0.13376298994537605,French Restaurant
+534,"Carnaby Street, London, the UK",-0.138889,51.513332,Amorino,51.5128681494808,-0.13216098124942802,Ice Cream Shop
+535,"Carnaby Street, London, the UK",-0.138889,51.513332,Bellamy's,51.5112181595504,-0.1444688613865777,French Restaurant
+536,"Carnaby Street, London, the UK",-0.138889,51.513332,Hermès,51.51109122544547,-0.14322160504869755,Boutique
+537,"Meadow Rise, Hemsby, Norfolk, UK",1.687391,52.699203,Hemsby Fish & Chips,52.695892,1.6887044,Fish & Chips Shop
+538,"Addenbrooke's Rd, Cambridge, Cambridgeshire, UK",0.125377,52.166824,Cambridge Camping and Caravanning Club Site,52.16508287754242,0.12615704254881824,Campground
+539,"Addenbrooke's Rd, Cambridge, Cambridgeshire, UK",0.125377,52.166824,School Square Play Area,52.170475,0.12395091,Playground
+540,"Ely Road, London, UK",-0.00729,51.573174,Perky Blenders @ Project 660,51.57001634459273,-0.008126050030971353,Coffee Shop
+541,"Ely Road, London, UK",-0.00729,51.573174,Brooks Farm,51.57052666096251,-0.011113205750902648,Farm
+542,"Ely Road, London, UK",-0.00729,51.573174,King William IV,51.57479,-0.011417158,Pub
+543,"Ely Road, London, UK",-0.00729,51.573174,Michael's Fish Bar,51.56940710486302,-0.0035780584252716827,Fish & Chips Shop
+544,"Ely Road, London, UK",-0.00729,51.573174,The Drum (Wetherspoon),51.57490070679844,-0.013638581509546898,Pub
+545,"Ely Road, London, UK",-0.00729,51.573174,Woo Lot,51.57439,-0.01389049,Chinese Restaurant
+546,"Ely Road, London, UK",-0.00729,51.573174,Subway,51.5759946139566,-0.01179709681832719,Sandwich Place
+547,"Ely Road, London, UK",-0.00729,51.573174,Costa Coffee,51.575107,-0.013332,Coffee Shop
+548,"Ely Road, London, UK",-0.00729,51.573174,Domino's Pizza,51.57467249674264,-0.01109921288013993,Pizza Place
+549,"Ely Road, London, UK",-0.00729,51.573174,Iceland,51.574972435520316,-0.013516452784716944,Supermarket
+550,"Ely Road, London, UK",-0.00729,51.573174,Iceland,51.575012,-0.012982897,Grocery Store
+551,"Ely Road, London, UK",-0.00729,51.573174,Afters,51.57151519796158,-0.00853201205399317,Ice Cream Shop
+552,"Ely Road, London, UK",-0.00729,51.573174,Cottage Cafe,51.57384247318652,-0.01089818360235427,Café
+553,"Ely Road, London, UK",-0.00729,51.573174,Leyton Leisure Centre,51.573975,-0.010304041,Gym
+554,"Ely Road, London, UK",-0.00729,51.573174,Tesco,51.57445244567906,-0.01211017370223999,Supermarket
+555,"Ely Road, London, UK",-0.00729,51.573174,Poundstretcher,51.575077,-0.011926442,Discount Store
+556,"Ely Road, London, UK",-0.00729,51.573174,Halifax,51.57480975837971,-0.013223698759261548,Bank
+557,"Ely Road, London, UK",-0.00729,51.573174,Bakers Arms,51.57537,-0.012836717,Intersection
+558,"Ely Road, London, UK",-0.00729,51.573174,Raj Convenience Store,51.57325430023617,-0.000540275168238145,Convenience Store
+559,"Ely Road, London, UK",-0.00729,51.573174,Star Nergiz,51.57479771464018,-0.013797700437485653,Burger Joint
+560,"Ely Road, London, UK",-0.00729,51.573174,Kebabish No.1,51.57569,-0.013096556,Kebab Restaurant
+561,"Newland Park, Hull, Kingston upon Hull, UK",-0.368377,53.767735,Waterstones,53.77131565184821,-0.3664541244506836,Bookstore
+562,"Newland Park, Hull, Kingston upon Hull, UK",-0.368377,53.767735,Costa Coffee,53.77096369273073,-0.3660217007984063,Coffee Shop
+563,"Newland Park, Hull, Kingston upon Hull, UK",-0.368377,53.767735,Old Grey Mare Hotel,53.768932447252894,-0.36835985348623307,Hotel
+564,"Newland Park, Hull, Kingston upon Hull, UK",-0.368377,53.767735,Brynmor Jones Library,53.770997427605934,-0.3692565535541877,Library
+565,"Newland Park, Hull, Kingston upon Hull, UK",-0.368377,53.767735,Starbucks,53.77145376315052,-0.3663790225982666,Coffee Shop
+566,"Newland Park, Hull, Kingston upon Hull, UK",-0.368377,53.767735,Sanctuary,53.77154072465585,-0.3662011244043367,Bar
+567,"Newland Park, Hull, Kingston upon Hull, UK",-0.368377,53.767735,Hull & East Riding Sports Club,53.763857239054666,-0.3712414683232632,Sports Club
+568,"Oxford Street, London, UK",-0.141099,51.515419,Kiss The Hippo,51.516438,-0.14184393,Coffee Shop
+569,"Oxford Street, London, UK",-0.141099,51.515419,Regent Street Cinema,51.51685235133446,-0.1426574390316932,Movie Theater
+570,"Oxford Street, London, UK",-0.141099,51.515419,Liberty of London,51.51372497936781,-0.14050994852482712,Department Store
+571,"Oxford Street, London, UK",-0.141099,51.515419,The Photographers' Gallery,51.51506983562191,-0.1389692294992966,Art Gallery
+572,"Oxford Street, London, UK",-0.141099,51.515419,Little Social,51.51352414150624,-0.1422119627642784,French Restaurant
+573,"Oxford Street, London, UK",-0.141099,51.515419,MEATliquor,51.516288,-0.142958,Burger Joint
+574,"Oxford Street, London, UK",-0.141099,51.515419,& Other Stories,51.51490959025801,-0.14111725295179028,Women's Store
+575,"Oxford Street, London, UK",-0.141099,51.515419,JOLT,51.516185764675825,-0.14046166652284045,Coffee Shop
+576,"Oxford Street, London, UK",-0.141099,51.515419,Honest Burgers,51.51650152514323,-0.13990373374690535,Burger Joint
+577,"Oxford Street, London, UK",-0.141099,51.515419,Muji,51.515647807699914,-0.13907574329914146,Miscellaneous Shop
+578,"Oxford Street, London, UK",-0.141099,51.515419,Pollen Street Social,51.51342620568972,-0.1422079059902279,English Restaurant
+579,"Oxford Street, London, UK",-0.141099,51.515419,Bar Remo,51.514574423902545,-0.14240433800825497,Italian Restaurant
+580,"Oxford Street, London, UK",-0.141099,51.515419,Bravissimo,51.51655831804994,-0.14200102422674682,Lingerie Store
+581,"Oxford Street, London, UK",-0.141099,51.515419,Lush,51.515631934996996,-0.1386313083128742,Cosmetics Shop
+582,"Oxford Street, London, UK",-0.141099,51.515419,Jo Malone,51.51519944112558,-0.14479843491669625,Cosmetics Shop
+583,"Oxford Street, London, UK",-0.141099,51.515419,The Wigmore,51.51749883890858,-0.1432781519672517,Pub
+584,"Oxford Street, London, UK",-0.141099,51.515419,Workshop Coffee Co.,51.51745739585802,-0.14250965393277512,Coffee Shop
+585,"Oxford Street, London, UK",-0.141099,51.515419,Pandora,51.51529327906864,-0.14256236744520465,Jewelry Store
+586,"Oxford Street, London, UK",-0.141099,51.515419,Microsoft Flagship Store,51.515198,-0.142215,Electronics Store
+587,"Oxford Street, London, UK",-0.141099,51.515419,77 Diamonds,51.51366524587783,-0.143339520247421,Jewelry Store
+588,"Oxford Street, London, UK",-0.141099,51.515419,LOLA's Cupcakes,51.51548397710461,-0.14130105908680377,Cupcake Shop
+589,"Oxford Street, London, UK",-0.141099,51.515419,Psycle,51.51750152644822,-0.14221288913805985,Cycle Studio
+590,"Oxford Street, London, UK",-0.141099,51.515419,Five Guys,51.514436746348444,-0.1404171687172493,Burger Joint
+591,"Oxford Street, London, UK",-0.141099,51.515419,BrewDog Soho,51.51506401548841,-0.13725131750106812,Beer Bar
+592,"Oxford Street, London, UK",-0.141099,51.515419,JOE & THE JUICE,51.51606049455287,-0.14245748519897458,Juice Bar
+593,"Oxford Street, London, UK",-0.141099,51.515419,Burger & Lobster,51.51727050476959,-0.14093635138153907,Seafood Restaurant
+594,"Oxford Street, London, UK",-0.141099,51.515419,Carnaby Street,51.513209538291676,-0.13889551162719724,Pedestrian Plaza
+595,"Oxford Street, London, UK",-0.141099,51.515419,Dishoom,51.51307933813641,-0.13968944549560547,Indian Restaurant
+596,"Oxford Street, London, UK",-0.141099,51.515419,Kintan,51.51586414856608,-0.14255090234497242,Japanese Restaurant
+597,"Oxford Street, London, UK",-0.141099,51.515419,Vapiano,51.51643927094741,-0.1411882855572975,Italian Restaurant
+598,"Oxford Street, London, UK",-0.141099,51.515419,Goodman Steakhouse,51.513046199835316,-0.14220250183932326,Steakhouse
+599,"Oxford Street, London, UK",-0.141099,51.515419,Bombay Bustle,51.512953452986906,-0.14219025372062952,Indian Restaurant
+600,"Oxford Street, London, UK",-0.141099,51.515419,Ain't Nothin But...The Blues Bar,51.51291417486742,-0.13959485465375793,Jazz Club
+601,"Oxford Street, London, UK",-0.141099,51.515419,COS,51.51354363481197,-0.14096722019446317,Clothing Store
+602,"Oxford Street, London, UK",-0.141099,51.515419,Market Hall West End,51.51558423494093,-0.14398097991943357,Food Court
+603,"Oxford Street, London, UK",-0.141099,51.515419,Ben's Cookies,51.51592578036752,-0.1365487399829042,Bakery
+604,"Oxford Street, London, UK",-0.141099,51.515419,The Great Frog,51.513266683602346,-0.13849546498174128,Jewelry Store
+605,"Oxford Street, London, UK",-0.141099,51.515419,lululemon athletica,51.51261907912644,-0.14028512070210394,Clothing Store
+606,"Oxford Street, London, UK",-0.141099,51.515419,The Langham,51.517801045370746,-0.1439927644804584,Hotel
+607,"Oxford Street, London, UK",-0.141099,51.515419,The Kati Roll Company,51.51513905984989,-0.13738198980131475,Indian Restaurant
+608,"Oxford Street, London, UK",-0.141099,51.515419,UNIQLO,51.514906488760786,-0.14538808878682621,Clothing Store
+609,"Oxford Street, London, UK",-0.141099,51.515419,Franco Manca,51.5153661387979,-0.1364338513869081,Pizza Place
+610,"Oxford Street, London, UK",-0.141099,51.515419,Phonica,51.514341262426946,-0.13695359230041504,Record Shop
+611,"Oxford Street, London, UK",-0.141099,51.515419,YHA Oxford Street,51.51473872831079,-0.1367369205921682,Hostel
+612,"Oxford Street, London, UK",-0.141099,51.515419,Artesian,51.5179015,-0.1435638,Hotel Bar
+613,"Oxford Street, London, UK",-0.141099,51.515419,Red Wing Shoes,51.51330861825849,-0.13840249682193684,Shoe Store
+614,"Oxford Street, London, UK",-0.141099,51.515419,Homeslice,51.51847684708113,-0.13999606534701844,Pizza Place
+615,"Oxford Street, London, UK",-0.141099,51.515419,HT Harris,51.518158606747825,-0.14043645222575532,Italian Restaurant
+616,"Oxford Street, London, UK",-0.141099,51.515419,Kaffeine,51.51678531888532,-0.13707989959255354,Coffee Shop
+617,"Oxford Street, London, UK",-0.141099,51.515419,John Lewis & Partners,51.5154109,-0.145197,Department Store
+618,"Oxford Street, London, UK",-0.141099,51.515419,Kingly Court,51.51263165734176,-0.13876898482724873,Food Court
+619,"Oxford Street, London, UK",-0.141099,51.515419,Roux at The Landau,51.51793233997872,-0.14365076499507268,French Restaurant
+620,"Oxford Street, London, UK",-0.141099,51.515419,Sketch,51.51269374318593,-0.14152944087982178,Modern European Restaurant
+621,"Oxford Street, London, UK",-0.141099,51.515419,Neat Burger,51.51458,-0.1426476,Vegetarian / Vegan Restaurant
+622,"Oxford Street, London, UK",-0.141099,51.515419,Dr. Martens,51.512805775307406,-0.1384814602082512,Shoe Store
+623,"Oxford Street, London, UK",-0.141099,51.515419,NikeTown,51.5154882,-0.1418238,Sporting Goods Shop
+624,"Oxford Street, London, UK",-0.141099,51.515419,Energy Kitchen at Psycle,51.517495824818255,-0.14229249632200516,Juice Bar
+625,"Oxford Street, London, UK",-0.141099,51.515419,Ergon Deli,51.513225295742195,-0.1417717401575143,Deli / Bodega
+626,"Oxford Street, London, UK",-0.141099,51.515419,Cahoots,51.51252270693244,-0.13862309742116488,Cocktail Bar
+627,"Oxford Street, London, UK",-0.141099,51.515419,Triyoga,51.51260464833745,-0.1387155382076474,Yoga Studio
+628,"Oxford Street, London, UK",-0.141099,51.515419,Cloth House,51.51515079123586,-0.13622604287654724,Fabric Shop
+629,"Oxford Street, London, UK",-0.141099,51.515419,The London Edition (The London EDITION),51.5167621228894,-0.1360492052481277,Hotel
+630,"Oxford Street, London, UK",-0.141099,51.515419,The Blind Pig,51.51378819718034,-0.13661994851478032,Cocktail Bar
+631,"Oxford Street, London, UK",-0.141099,51.515419,The Punch Room,51.51690505990691,-0.13615140149379504,Cocktail Bar
+632,"Oxford Street, London, UK",-0.141099,51.515419,Hamleys,51.51281546465188,-0.1401427925156895,Toy / Game Store
+633,"Oxford Street, London, UK",-0.141099,51.515419,dryby,51.51755257848881,-0.14209192640805568,Health & Beauty Service
+634,"Oxford Street, London, UK",-0.141099,51.515419,Postcard Teas,51.514115033448036,-0.14599533378914126,Tea Room
+635,"Oxford Street, London, UK",-0.141099,51.515419,Ralph's Coffee & Bar,51.51214764828749,-0.140224315955928,Café
+636,"Oxford Street, London, UK",-0.141099,51.515419,Michael Kors,51.5122923,-0.1401862,Boutique
+637,"Oxford Street, London, UK",-0.141099,51.515419,Rovi,51.51774426566881,-0.13864948381812106,Restaurant
+638,"Oxford Street, London, UK",-0.141099,51.515419,Kaffeine,51.51845746813275,-0.14047892160812275,Coffee Shop
+639,"Oxford Street, London, UK",-0.141099,51.515419,The Golden Union Fish Bar,51.515419510699545,-0.1376419034771937,Fish & Chips Shop
+640,"Oxford Street, London, UK",-0.141099,51.515419,Ember Yard,51.51541599999999,-0.136508,Tapas Restaurant
+641,"Oxford Street, London, UK",-0.141099,51.515419,The Great Thai,51.51829799921256,-0.14168317536753902,Thai Restaurant
+642,"Oxford Street, London, UK",-0.141099,51.515419,END. London,51.51308184590304,-0.13751108225453154,Clothing Store
+643,"Oxford Street, London, UK",-0.141099,51.515419,Social Eating House,51.51386112948613,-0.13658676974563821,English Restaurant
+644,"Oxford Street, London, UK",-0.141099,51.515419,We Built This City,51.51244482200528,-0.13806076988303054,Gift Shop
+645,"Oxford Street, London, UK",-0.141099,51.515419,Berners Tavern,51.51669906429344,-0.13627354492200539,English Restaurant
+646,"Oxford Street, London, UK",-0.141099,51.515419,Hauser & Wirth,51.512,-0.14121193,Art Gallery
+647,"Oxford Street, London, UK",-0.141099,51.515419,Dior,51.51517919593342,-0.14615929082699683,Cosmetics Shop
+648,"Oxford Street, London, UK",-0.141099,51.515419,The East India Company,51.5127499915302,-0.14118241890949879,Gift Shop
+649,"Oxford Street, London, UK",-0.141099,51.515419,KIKO MILANO,51.515014066718344,-0.14163064175986584,Cosmetics Shop
+650,"Oxford Street, London, UK",-0.141099,51.515419,Scandinavian Kitchen,51.518806969978364,-0.1407584619952256,Scandinavian Restaurant
+651,"Oxford Street, London, UK",-0.141099,51.515419,Nudie Jeans Soho,51.5145847,-0.1359009,Clothing Store
+652,"Oxford Street, London, UK",-0.141099,51.515419,Emporio Armani,51.512634435938985,-0.1446030164484425,Clothing Store
+653,"Oxford Street, London, UK",-0.141099,51.515419,Copita,51.51466256278647,-0.13604869156312654,Tapas Restaurant
+654,"Oxford Street, London, UK",-0.141099,51.515419,Crumbs & Doilies,51.51226269361405,-0.13837472308901355,Cupcake Shop
+655,"Oxford Street, London, UK",-0.141099,51.515419,Dolce&Gabbana,51.51279362491167,-0.14476113499481524,Men's Store
+656,"Oxford Street, London, UK",-0.141099,51.515419,Mustard Cafe,51.51633489888748,-0.1425032792769469,Café
+657,"Oxford Street, London, UK",-0.141099,51.515419,Illy,51.516684341141634,-0.1428738981649076,Café
+658,"Oxford Street, London, UK",-0.141099,51.515419,G-Star Raw,51.5151603,-0.1442649,Clothing Store
+659,"Oxford Street, London, UK",-0.141099,51.515419,Urban Outfitters,51.51556711563462,-0.1406213703986795,Clothing Store
+660,"Oxford Street, London, UK",-0.141099,51.515419,T2 Tea,51.51610992880323,-0.14234252642257733,Tea Room
+661,"Oxford Street, London, UK",-0.141099,51.515419,Victoria's Secret,51.51317020729852,-0.1453134047290396,Lingerie Store
+662,"Oxford Street, London, UK",-0.141099,51.515419,Ponti's Italian Kitchen,51.51578169241686,-0.14266948449469766,Italian Restaurant
+663,"Oxford Street, London, UK",-0.141099,51.515419,Topman,51.5157856,-0.1411625,Men's Store
+664,"Oxford Street, London, UK",-0.141099,51.515419,Waitrose & Partners JL Foodhall,51.515092658820485,-0.14509284707060033,Supermarket
+665,"Oxford Street, London, UK",-0.141099,51.515419,Disrepute,51.5121207327462,-0.13817948648605408,Cocktail Bar
+666,"Oxford Street, London, UK",-0.141099,51.515419,Beast,51.51535642353023,-0.14689623696845844,Steakhouse
+667,"Oxford Street, London, UK",-0.141099,51.515419,Fresh Healthy Eating Cafe,51.513227945695,-0.1363938828951916,Juice Bar
